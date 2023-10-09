@@ -75,4 +75,10 @@
     //     echo "Não é um Arquivo";
     // }
 
-    //Continua com MKDIR pagina 55
+    //Criar diretório com MKDIR
+    // $dir = 'arquivos/diretorio';
+    // if (mkdir($dir, 0777)) {
+    //     echo "$dir criado com sucesso!";
+    // }else{
+    //     echo "$dir não foi possível criar diretório!";
+    // }
